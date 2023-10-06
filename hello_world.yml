@@ -5,3 +5,6 @@
       debug:
         msg: "Hello from Saravanan S!"
 
+    - name: Hello Message2 
+      debug:
+        msg: "New from Saravanan S!"
